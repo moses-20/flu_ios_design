@@ -1,16 +1,11 @@
 # flu_ios_design
 
-A new Flutter project.
+This project is an ecommerce user interface app.
+It is designed to have traditional iOS look and feel using Cupertino design.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Run `git clone https://github.com/moses-20/flu_ios_design.git` in an empty folder.
+2. Get the dependencies by running `flutter pub get`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to test the app without an iOS device, enable the beta channel of your Flutter SDK and do `flutter run -d web`.
